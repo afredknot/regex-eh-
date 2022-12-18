@@ -53,6 +53,8 @@ These look at the file endpoint and since it is able to match the preceeding 0 o
 
 ### Bracket Expressions
 
+With the bracket expression we can indicate a set of characters to match and any of the individual characters betwixt these brackets will match i.e. [\da-z\.-]+)\.([a-z\.]. Often we will see either parts of the alphabet or numerals. In this case we have the alphabet .([a-z\.].
+
 ### Greedy and Lazy Match
 
 Greedy matches are accomplished by default with the * or + symbols, since they are able to match the preceeding elements 0 or more times.
