@@ -14,3 +14,12 @@ WHEN I read through each section of the tutorial
 THEN I find a detailed explanation of what a specific component of the regex does
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
+
+## What I learned
+
+Regex is a very interesting language that can take quite a bit of input to be able to match and make sure that youre getting the return that you want to have on a particular url or really any other thing that you would write a regex for.
+also that the * symbol can be ver powerful in your regex query.
+
+## links
+
+link to fully rendered gist -- https://gist.github.com/afredknot

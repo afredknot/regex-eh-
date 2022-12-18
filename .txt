@@ -1,3 +1,5 @@
+notes and thoughts to be able to add to the gist file.
+
 
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 Using this regex or any for that matter we have to consider the components, since the regex is considered a literal
@@ -5,4 +7,3 @@ Using this regex or any for that matter we have to consider the components, sinc
 
 regx looks at, literal charaters and meta charaters, it makes it so you can hide information in the code according to the pieces that you have. this meta will match the digits using "\d" and wqill search through 1-9 
 
-Anchors are the characters ^ and $. the ^ anchor will run through and find any capital letter in your code at, because regex is case sensitive. the $ anchor will siginify strings end with the characters that proceed it.

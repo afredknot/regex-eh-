@@ -45,8 +45,6 @@ These look at the file endpoint and since it is able to match the preceeding 0 o
 
 ### OR Operator
 
-
-
 ### Character Classes
 
 ### Flags
